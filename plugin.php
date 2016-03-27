@@ -5,7 +5,8 @@ Plugin Name: Allow Forward Slashes in Short URLs
 Plugin URI: http://williambargent.co.uk
 Description: Allow Forward Slashes in Short URLs
 Version: 1.0
-Author: <a href="http://williambargent.co.uk">William Bargent</a>
+Author: William Bargent
+Author URI: http://williambargent.co.uk
 */
 
 
